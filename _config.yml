@@ -23,6 +23,7 @@ github_username:  leonardj2
 
 # Build settings
 markdown: kramdown
+includes_dir: _includes
 gems:
   - jekyll-feed
 exclude:
