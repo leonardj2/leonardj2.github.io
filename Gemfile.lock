@@ -47,6 +47,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
+  liquid
   minima (~> 2.0)
   tzinfo-data
 
